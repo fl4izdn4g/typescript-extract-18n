@@ -1,0 +1,13 @@
+{
+  "name": "typescript-extractor",
+  "version": "1.0.0",
+  "description": "Extract informations from typescript file",
+  "author": "Lukasz Górecki <lukasz.gorecki@interia.eu>",
+  "main": "extract.js",
+  "scripts": {
+    "start": "node extract.js"
+  },
+  "dependencies": {
+    "typescript": "3.8.3"
+  }
+}
